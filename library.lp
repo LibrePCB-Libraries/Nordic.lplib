@@ -1,0 +1,11 @@
+(librepcb_library aa4b2d97-1c51-49a9-ace1-d50385edb5ae
+ (name "Nordic")
+ (description "Parts by Nordic Semiconductor (unofficial).")
+ (keywords "nordic,nrf")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2020-05-05T11:21:38Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Nordic.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
