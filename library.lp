@@ -3,7 +3,7 @@
  (description "Parts by Nordic Semiconductor (unofficial).")
  (keywords "nordic,nrf")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2020-05-05T11:21:38Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Nordic.lplib")
