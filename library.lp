@@ -1,5 +1,5 @@
 (librepcb_library aa4b2d97-1c51-49a9-ace1-d50385edb5ae
- (name "Nordic")
+ (name "Nordic Semiconductor")
  (description "Parts by Nordic Semiconductor (unofficial).")
  (keywords "nordic,nrf")
  (author "LibrePCB")
