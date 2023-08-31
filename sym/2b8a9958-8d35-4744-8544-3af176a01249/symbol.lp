@@ -3,7 +3,7 @@
  (description "Bluetooth 5.2 SoC supporting Bluetooth Low Energy.\n\nWLCSP33 package variant.")
  (keywords "nrf52,nrf52810,bluetooth,ble,soc")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2020-05-05T11:50:02Z)
  (deprecated false)
  (generated_by "")

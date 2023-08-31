@@ -3,7 +3,7 @@
  (description "Advanced Bluetooth 5, Thread and Zigbee multiprotocol SoC.\n\naQFN73 package variant.")
  (keywords "nrf52,nrf52840,bluetooth,ble,mesh,nfc,thread,zigbee,soc")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2020-05-05T19:33:04Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Bluetooth 5.2 SoC supporting Bluetooth Low Energy, Bluetooth mesh and NFC.\n\nWLCSP50 package variant.")
  (keywords "nrf52,nrf52832,bluetooth,ble,mesh,nfc,soc")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2020-05-05T11:35:05Z)
  (deprecated false)
  (generated_by "")
